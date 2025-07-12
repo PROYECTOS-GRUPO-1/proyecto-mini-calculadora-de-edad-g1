@@ -43,6 +43,6 @@ function simularAPI() {
   console.log("💾 Datos almacenados en la memoria simulada.");
 
   // Muestra mensaje visual
-  resultado.textContent = "✅ Datos enviados a API [simulado]";
+  resultado.textContent = "✅ Datos enviados a API {simulado}";
   resultado.className = "enviado animar";
 }
