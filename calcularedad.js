@@ -4,8 +4,8 @@ function calcularEdad() {
   const resultado = document.getElementById("resultado");
 
   if (!input) {
-    resultado.textContent = "⚠️ Por favor ingresa tu fecha de nacimiento.";
-    resultado.className = "error animar";
+    resultado.textContent = "Por favor ingresa tu fecha de nacimiento.";
+    resultado.classList.add("error");
     return;
   }
 
@@ -19,7 +19,7 @@ function calcularEdad() {
   }
 
   resultado.textContent = `🎉 Tienes ${edad} años 🎉`;
-  resultado.className = "exito animar";
+  resultado.classList.add("animar");
 }
 
 // Simula envío a una API
@@ -28,7 +28,7 @@ function simularAPI() {
   const resultado = document.getElementById("resultado");
 
   if (!input) {
-    alert("⚠️ Primero Ingresa tu fecha de nacimiento.");
+    alert("Primero ingresa tu fecha de nacimiento.");
     return;
   }
 
@@ -37,12 +37,10 @@ function simularAPI() {
     calculadoEn: new Date().toISOString()
   };
 
-  // Simula POST
-  console.log("📤 Simulando POST con JSON:");
-  console.log(JSON.stringify(data, null, 2)); // Formato bonito
-  console.log("💾 Datos almacenados en la memoria simulada.");
+  console.log("Simulando POST con JSON:");
+  console.log(JSON.stringify(data));
 
-  // Muestra mensaje visual
-  resultado.textContent = "✅ Datos enviados a API {simulado}";
-  resultado.className = "enviado animar";
+  // Simulación de respuesta de API
+  resultado.textContent = "✅ Datos enviados a API (simulado)";
+  resultado.classList.add("enviado");
 }
