@@ -1,0 +1,16 @@
+{
+  "calculos": [
+    {
+      "id": "64ee",
+      "fechaNacimiento": "2007-04-21",
+      "edadCalculada": 18,
+      "fechaCalculo": "2025-07-13T01:16:22.465Z"
+    },
+    {
+      "id": "b7f4",
+      "fechaNacimiento": "2006-04-21",
+      "edadCalculada": 19,
+      "fechaCalculo": "2025-07-13T01:43:27.904Z"
+    }
+  ]
+}
