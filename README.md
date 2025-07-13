@@ -13,13 +13,13 @@ Este proyecto fue gestionado bajo el marco de trabajo Scrum, promoviendo la cola
 
 ## Roles del Equipo
 
-| Integrante           | Rol Scrum       | Responsabilidades clave ------------------------------------------------------------------|
-|-------------------  -|------------------|------------------------------------------------------------------------------------------|
-| **Tracy Moriano**    | Scrum Master     | Facilitadora del equipo, seguimiento del sprint, control de tiempos, resolución de bloqueos y documentación. |
-| **Cesar Cabrejos**   | Product Owner    | Definición de funcionalidades, gestión del backlog, priorización de tareas y validación del producto. |
-| **Jhonson Palomino** | Developer        | Desarrollo de la lógica de cálculo de edad y validaciones en JavaScript. |
-| **Jesus Alvarado**   | Developer        | Maquetación en HTML, diseño visual con CSS y estructura del formulario.
-| **Jordan Rojas**     | Developer        | Integración de módulos, pruebas funcionales y organización del repositorio GitHub. |
+| Integrante          | Rol Scrum     | Responsabilidades clave                                                                               |
+|---------------------|---------------|-------------------------------------------------------------------------------------------------------|
+| **Tracy Moriano**   | Scrum Master  | Facilitadora del equipo, seguimiento del sprint, resolución de bloqueos y documentación.              |
+| **Cesar Cabrejos**  | Product Owner | Definición de funcionalidades, gestión del backlog, priorización de tareas y validación del producto. |
+| **Jhonson Palomino**| Developer     | Desarrollo de la lógica de cálculo de edad y validaciones en JavaScript.                              |
+| **Jesus Alvarado**  | Developer     | Maquetación en HTML, diseño visual con CSS y estructura del formulario.                               |
+| **Jordan Rojas**    | Developer     | Integración de módulos, pruebas funcionales y organización del repositorio GitHub.                    |
 
 ---
 
