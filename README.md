@@ -25,6 +25,8 @@ Este proyecto fue gestionado bajo el marco de trabajo Scrum, promoviendo la cola
 
 ## Tecnologías Utilizadas
 
+
+
 - **HTML5** – Estructura del sitio web
 - **CSS3** – Estilos y diseño visual
 - **JavaScript (ES6+)** – Lógica y cálculo de edad
